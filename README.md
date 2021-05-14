@@ -1,10 +1,12 @@
 <p align="center">
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="80px" src="assets/logoSerratec.png" alt="logo serratec"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="100px" src="assets/osZeressemosProTeam.png" alt="logo serratec"/>
 </p>
-<h1 align="center">Frontend Essencial</h1>
-<a  href="https://github.com/weilemann">
-<h3 align="center">Professor Yuri Weilemann</h3>
-</a></br>
+<div align="center">
+  <h1>Frontend Essencial</h1>
+    <a  href="https://github.com/weilemann"><h3 style="color: black">Professor Yuri Weilemann</h3>
+    </a>
+</div>
+</br>
 
 ## <img  height="40px" align="center" src="assets/colorBlock.gif"> Conteúdo Programático
 
