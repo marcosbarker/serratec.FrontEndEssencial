@@ -1,0 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background: linear-gradient(rgba(0,0,0,.05), rgba(0,0,0,.20)100%), url(assets/wallpaperPokemon.jpg); 
+}
