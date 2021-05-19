@@ -4,47 +4,43 @@
   box-sizing: border-box;
 }
 
-body .navbar {
-  background-color: #4ed1f1;
-}
-
 body {
-  background-image: url("../assets/wallpaperBackGround.jpg") !important;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.05), rgba(153, 218, 255, 0.822)100%); 
 }
 
-#cabecalho {
-  background-image: url("../assets/wallpaperPokemonOpaco.jpg");
-  padding-bottom: 0;
-  padding: 25px;
-  padding-top: 50px;
+#top{
+  margin-top: 300px;
+}
+
+header{
+  display: block;
+  position: fixed;
+  width: 100%;
+  background-image: url(../assets/wallpaperPokemonOpaco.jpg);
 }
 
 .zeromon img {
-  margin-left: 38%;
-  margin-right: 38%;
-  /* Fazer calc do cabeçalho depois*/
+  margin: 1% 38% 0% 38%;
   width: 350px;
 }
 
 .zeromon h2 {
-  /* Fazer calc do cabeçalho depois*/
   text-align: center;
   font-size: medium;
   font-weight: bold;
-  padding-bottom: 10px;
+  margin-bottom: 25px;
 }
 
 .navbar {
-  /* Fazer calc do cabeçalho depois*/
   font-size: 25px;
   font-family: 'Ubuntu', sans-serif;
   font-weight: bold;
-  background-color: transparent;
+  background-color: #4ed1f1;
 }
 
 div.box {
-  padding-top: 25px;
-  margin-left: 45px;
+  margin-top: 25px;
+  margin-left: 80px;
   display: inline-block;
   text-align: center;
 }
@@ -81,8 +77,9 @@ div.box a:-webkit-any-link {
 }
 
 .nav-car{
-  margin-left: 400px;
+  margin-left: 230px;
 }
+
 .nav-car img{
   width: 50px;
 }

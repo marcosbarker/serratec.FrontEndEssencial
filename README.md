@@ -10,7 +10,7 @@
 
 ## <img  height="40px" align="center" src="assets/colorBlock.gif"> Conteúdo Programático
 
-✔️ Conhecer os pilares de uma aplicação w eb, identificar a diferença entre HTML, CSS e JavaScript;</br>
+✔️ Conhecer os pilares de uma aplicação web, identificar a diferença entre HTML, CSS e JavaScript;</br>
 ✔️ Saber escrever um documento HTML com suas principais tags;</br>
 ✔️ Fazer um arquivo CSS com suas propriedades básicas: margin , width . height padding , color, background, border e outros;</br>
 ✔️ Utilizar seletores do CSS, conhecendo suas especificidades;</br>
