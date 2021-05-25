@@ -14,7 +14,7 @@
 ✔️ Saber escrever um documento HTML com suas principais tags;</br>
 ✔️ Fazer um arquivo CSS com suas propriedades básicas: margin , width . height padding , color, background, border e outros;</br>
 ✔️ Utilizar seletores do CSS, conhecendo suas especificidades;</br>
-✔️ Saber fatiar um layout, criar uma tela entendendo como funcionam os principais displays: block , inline , none , flex e etc;</br>
+✔️ Saber fatiar um layout, criar uma tela entendendo como funcionam os principais displays: block , inline ,none ,flex e etc;</br>
 ✔️ Conhecer o grid system do bootstrap e as principais classes para utilização em alert , buttons , modais, group e outros;</br>
 ✔️ Saber utilizar os conceitos básicos de lógica de programação em JavaScript (variáveis, condicionais, loops, escopos, referência, entre outros);</br>
 ✔️ Conhecer o DOM, capturar elementos, manipular elementos;</br>
@@ -27,17 +27,21 @@ e convenções de cada linguagem;</br>
 
 </br>
 
-## <img  height="40px" align="center" src="assets/coin.gif"> Atividades
+## <img  height="40px" align="center" src="assets/coin.gif">    Atividades
 * [Aulas](aulas/)</br>
 * [Exercícios](exercicios/)</br>
-* [Material de Aula]()</br>
+* [Material de Aula](materialDeAula/)</br>
 
-### ⚡Projeto Final 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[**texto**]()
-
+## <img height="40px" align="center" src="https://cdn.emojidex.com/emoji/seal/Pokebola.png" emoji-code="Pokebola" alt="Pokebola" />    Projeto Final 
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zeromom Market Place**
+ * [**Site**](https://zeromon.vercel.app/)
+ * [**Vídeo**](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6802816921575288832?compact=1)
+ * [**Instagram**](https://www.instagram.com/zeressemos_company/)
+ * [**Repositório**](zeromonMarketPlace/)
 </br>
 
-## <img  height="45px" align="center" src="assets/stockrocketgif.gif"> Tecnologia Utilizada
+
+## <img height="45px" align="center" src="assets/stockrocketgif.gif">    Tecnologia Utilizada
 
 - [**CSS**](https://www.w3.org/Style/CSS/)    [(*Documentação MDN*)](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [**HTML5**](https://html.spec.whatwg.org/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
