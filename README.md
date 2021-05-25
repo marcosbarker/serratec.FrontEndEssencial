@@ -33,7 +33,7 @@ e convenções de cada linguagem;</br>
 * [Material de Aula](materialDeAula/)</br>
 
 ## <img height="40px" align="center" src="https://cdn.emojidex.com/emoji/seal/Pokebola.png" emoji-code="Pokebola" alt="Pokebola" />    Projeto Final 
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zeromom Market Place**
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zeromom Market Place**    [*Enunciado*](materialDeAula/confidential.pdf)
  * [**Site**](https://zeromon.vercel.app/)
  * [**Vídeo**](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6802816921575288832?compact=1)
  * [**Instagram**](https://www.instagram.com/zeressemos_company/)
