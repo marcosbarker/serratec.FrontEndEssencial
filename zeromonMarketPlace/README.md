@@ -14,6 +14,11 @@
 </details>  
 <br>
 
+## &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Navegador&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mobile
+
+<img height="300px" align="center" src="../assets/video/../videoApresentacao/site.gif">&nbsp;&nbsp;
+<img height="300px" align="center" src="../assets/video/../videoApresentacao/mobile.gif">
+
 ## <img height="40px" align="center" src="../assets/pokebola.png" emoji-code="Pokebola" alt="Pokebola" />    Projeto Final 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Zeromom Market Place**    [*(Enunciado)*](materialDeAula/confidential.pdf)
  * [**Site**](https://zeromon.vercel.app/)
@@ -28,7 +33,7 @@
 - [**JavaScript**](https://www.javascript.com/)    [(*Documentação MDN*)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 - [**Visual Studio Code**](https://code.visualstudio.com/)    [*(Documentação)*](https://code.visualstudio.com/docs)
 
-- [**PokéAPI**](https://pokeapi.co/)    [*Documentação*](https://pokeapi.co/docs/v2)
+- [**PokéAPI**](https://pokeapi.co/)    [(*Documentação*)](https://pokeapi.co/docs/v2)
 
 <p align="center">
   <img align="center" height="400px" src="../assets/osZeressemosProTeam.png"> 
